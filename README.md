@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'am Angie, 🌱 I’m currently learning about Amazon Web Services and Java.
+I'm Angie, 🌱 I’m currently learning about Amazon Web Services and Java.
 
 
 <!--
