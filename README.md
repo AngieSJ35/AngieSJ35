@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'am Angie, 🌱 I’m currently learning about Amazon Web Services and Java.
+
+
 <!--
 **AngieSJ35/AngieSJ35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
