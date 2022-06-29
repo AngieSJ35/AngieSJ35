@@ -3,6 +3,13 @@
 I'm Angie, 🌱 I’m currently learning about Amazon Web Services and Java.
 
 
+![pand](https://user-images.githubusercontent.com/94010383/176563659-f95f48a9-0d3e-416a-82db-b08f85f06de5.gif)
+
+
+
+
+
+
 <!--
 **AngieSJ35/AngieSJ35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
